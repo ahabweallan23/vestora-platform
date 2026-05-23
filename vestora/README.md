@@ -1,4 +1,4 @@
-# USE Insight — Intelligent Retail Investor Platform for Uganda
+# Vestora — Intelligent Retail Investor Platform for Uganda
 
 ## Quick Start
 
